@@ -4,6 +4,11 @@
 	"description": "\n      <strong>Tardar Sauce</strong> (born April 4, 2012), commonly known as\n      <strong>Grumpy Cat</strong>, is a cat Internet and media personality and\n      actress. She is known for her permanently \"grumpy\" facial appearance,\n      which is caused by an\n      <a href=\"https://en.wikipedia.org/wiki/Malocclusion\" title=\"Malocclusion\">underbite</a>\n      and\n      <a href=\"https://en.wikipedia.org/wiki/Dwarf_cat\" title=\"Dwarf cat\">feline dwarfism</a>.\n    ",
 	"fish": [
 		{
+			"species": "sea bass",
+			"price": "38.00/lb",
+			"comment": "for your tropical seinfeld needs"
+		},
+		{
 			"species": "neon tetra",
 			"price": "7.00/per",
 			"comment": "great pet"
