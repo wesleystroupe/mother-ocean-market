@@ -1,17 +1,17 @@
 {
 	"image": "images/photo.jpg",
-	"name": "Grumpy Cat",
-	"description": "lorem ipsum fake latin bullshit whatever",
+	"name": "Mother Ocean Market",
+	"description": "",
 	"fish": [
-		{
-			"species": "sea bass",
-			"price": "38.00/lb",
-			"comment": "for your tropical seinfeld needs"
-		},
 		{
 			"species": "neon tetra",
 			"price": "7.00/per",
 			"comment": "great pet"
+		},
+		{
+			"species": "sea bass",
+			"price": "38.00/lb",
+			"comment": "for your tropical seinfeld needs"
 		},
 		{
 			"species": "Tuna",
