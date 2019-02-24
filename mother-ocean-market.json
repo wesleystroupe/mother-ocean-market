@@ -4,16 +4,26 @@
 	"description": "Our passion is bringing the most sustainable fresh seafood from the coast&nbsp; of the Carolinas to the mountains of Asheville!",
 	"fish": [
 		{
+			"fish-species": "fish 2",
+			"fish-price": "price 2",
+			"fish-comment": "comment 2"
+		},
+		{
 			"species": "neon tetra",
 			"price": "7.00/per",
-			"comment": "great pet"
+			"comment": "great pet",
+			"fish-species": "fish 1",
+			"fish-price": "price 1",
+			"fish-comment": "comment 1"
 		}
 	],
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat",
 	"markets": [
-		{}
+		{
+			"market-name": "market 1"
+		}
 	],
 	"instagram": "https://www.instagram.com/motheroceanmarketavl/?ref=mother-ocean-market-homepage"
 }
