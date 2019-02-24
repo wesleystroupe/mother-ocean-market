@@ -32,5 +32,19 @@
 			"market-hours": "hours 1"
 		}
 	],
-	"instagram": "https://www.instagram.com/motheroceanmarketavl/?ref=mother-ocean-market-homepage"
+	"instagram": "https://www.instagram.com/motheroceanmarketavl/?ref=mother-ocean-market-homepage",
+	"market": [
+		{
+			"market-name": "sdfsdjlkfj",
+			"market-open": "kldsjflkdsjf",
+			"market-close": "klasjdflksdjf",
+			"market-address": "sdkfjsdlkfjklsdf"
+		},
+		{
+			"market-name": "test",
+			"market-open": "1",
+			"market-close": "2",
+			"market-address": "sdfmlskdfjlsdfdf"
+		}
+	]
 }
