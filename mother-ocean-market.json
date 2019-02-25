@@ -2,7 +2,13 @@
 	"image": "/images/photo.jpg",
 	"name": "Mother Ocean Market",
 	"description": "Our passion is bringing the most sustainable fresh seafood from the coast&nbsp; of the Carolinas to the mountains of Asheville!",
-	"fish": [],
+	"fish": [
+		{
+			"fish-species": "Bass",
+			"fish-price": "25.00"
+		},
+		{}
+	],
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat",
