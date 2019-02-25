@@ -31,6 +31,6 @@
 	"avl-description": "\n      Asheville area restaurant and bulk pricing.\n    ",
 	"market-list-title": "Markets",
 	"pub-market-list": [
-		"<div class=\"mv-item-bar mv-ui\" hidden=\"\">&nbsp;</div>\n<div class=\"mv-item-bar mv-ui mv-sticky\">&nbsp;</div>"
+		null
 	]
 }
